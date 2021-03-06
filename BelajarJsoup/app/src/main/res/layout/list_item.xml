@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	android:gravity="center">
+
+	<ImageView
+		android:layout_height="270dp"
+		android:layout_width="270dp"
+		android:src="@android:drawable/ic_delete"
+		android:id="@+id/image_thumb"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:text="Large Text"
+		android:id="@+id/text_title"/>
+
+</LinearLayout>
+

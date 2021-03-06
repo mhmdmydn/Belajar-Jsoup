@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   	<!--Light Mode-->
+   	<color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="bgLight">#FFFFFF</color>
+   	<color name="colorControlHighlight">#EEEEEE</color>
+   	<color name="colorControlNormal">#000000</color>
+   	<color name="colorTextLight">#000000</color>
+   	<color name="colorTextSecondLight">#999999</color>
+   	<color name="overFlowStyleColor">#000000</color>
+	
+	<!--Dark Mode-->
+    <color name="colorPrimaryNight">#212121</color>
+    <color name="colorPrimaryDarkNight">#212121</color>
+    <color name="colorAccentNight">#F44336</color>
+    <color name="bgNight">#FFFFFF</color>
+    <color name="colorControlHighlightNight">#333333</color>
+    <color name="colorControlNormalNight">#FFFFFF</color>
+    <color name="colorTextNight">#FFFFFF</color>
+    <color name="colorTextSecondNight">#FFFFFF</color>
+   	<color name="overFlowStyleColorNight">#FFFFFF</color>
+ 	
+</resources>
